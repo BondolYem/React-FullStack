@@ -1,0 +1,146 @@
+[01/05/2024 12:36:27] Error
+
+[01/05/2024 12:39:29] Error
+
+[01/05/2024 12:39:38] Error
+
+[01/05/2024 12:39:57] Error
+
+[01/05/2024 12:42:43] Error
+
+[01/05/2024 12:43:41] Error: Table 'full_stack_project.users' doesn't exist
+
+[01/05/2024 12:43:43] Error: Table 'full_stack_project.users' doesn't exist
+
+[01/05/2024 12:45:07] Error: Table 'full_stack_project.users' doesn't exist
+
+[01/05/2024 12:45:08] Error: Table 'full_stack_project.users' doesn't exist
+
+[01/05/2024 12:47:24] Error: Table 'full_stack_project.users' doesn't exist
+
+[01/05/2024 12:51:53] Error: Table 'full_stack_project.users' doesn't exist
+
+[01/05/2024 07:41:35] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:41:36] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:41:45] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:41:53] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:42:42] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:38] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:39] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:39] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:40] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:51] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:52] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:52] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:53] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:43:53] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 07:45:00] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:04:20] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:04:22] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:04:22] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:06:33] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:06:34] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:24:35] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:24:36] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:26:41] Error: connect ECONNREFUSED 127.0.0.1:3307
+
+[01/05/2024 08:26:42] Error: connect ECONNREFUSED 127.0.0.1:3307
+
+[01/05/2024 08:27:01] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:27:02] Error: connect ECONNREFUSED 127.0.0.1:3306
+
+[01/05/2024 08:27:43] TypeError: db.query is not a function
+
+[01/05/2024 08:27:44] TypeError: db.query is not a function
+
+[01/05/2024 08:35:48] TypeError: db.query is not a function
+
+[01/05/2024 08:35:49] TypeError: db.query is not a function
+
+[01/05/2024 08:36:43] TypeError: db.query is not a function
+
+[01/05/2024 08:37:31] TypeError: db.query is not a function
+
+[01/05/2024 08:44:57] TypeError: db.query is not a function
+
+[01/05/2024 08:44:58] TypeError: db.query is not a function
+
+[01/05/2024 08:44:59] TypeError: db.query is not a function
+
+[01/05/2024 08:44:59] TypeError: db.query is not a function
+
+[01/05/2024 08:45:00] TypeError: db.query is not a function
+
+[01/05/2024 08:45:26] TypeError: db.query is not a function
+
+[01/05/2024 08:45:27] TypeError: db.query is not a function
+
+[01/05/2024 08:46:25] TypeError: db.query is not a function
+
+[01/05/2024 08:46:56] TypeError: db.query is not a function
+
+[01/05/2024 08:46:58] TypeError: db.query is not a function
+
+[01/05/2024 08:47:12] TypeError: db.query is not a function
+
+[01/05/2024 08:49:42] TypeError: db.query is not a function
+
+[01/05/2024 08:49:43] TypeError: db.query is not a function
+
+[01/05/2024 08:49:44] TypeError: db.query is not a function
+
+[01/05/2024 08:49:55] Error: Unknown column 'role.Name' in 'field list'
+
+[01/05/2024 08:49:57] Error: Unknown column 'role.Name' in 'field list'
+
+[01/05/2024 08:49:57] Error: Unknown column 'role.Name' in 'field list'
+
+[01/05/2024 08:49:58] Error: Unknown column 'role.Name' in 'field list'
+
+[01/05/2024 08:50:19] Error: Unknown column 'role.Name' in 'field list'
+
+[01/05/2024 08:50:20] Error: Unknown column 'role.Name' in 'field list'
+
+[01/05/2024 16:08:06] Error: Table 'full_stack_project.user' doesn't exist
+
+[01/05/2024 16:08:23] Error: Table 'full_stack_project.user' doesn't exist
+
+[01/05/2024 16:08:24] Error: Table 'full_stack_project.user' doesn't exist
+
+[28/05/2024 20:09:38] ReferenceError: db is not defined
+
+[06/07/2024 15:49:14] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY Id DESC[object Object]' at line 1
+
+[06/07/2024 15:49:15] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY Id DESC[object Object]' at line 1
+
+[06/07/2024 15:49:38] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY Id DESC[object Object]' at line 1
+
+[06/07/2024 15:49:38] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY Id DESC[object Object]' at line 1
+
+[06/07/2024 15:55:32] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY Id DESC LIMIT  0, 10' at line 1
+
+[06/07/2024 15:55:32] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY Id DESC LIMIT  0, 10' at line 1
+

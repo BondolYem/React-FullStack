@@ -1,0 +1,36 @@
+[12/06/2024 20:39:28] Error: Undeclared variable: NaN
+
+[12/06/2024 20:39:28] Error: Undeclared variable: NaN
+
+[12/06/2024 20:40:04] Error: Undeclared variable: NaN
+
+[12/06/2024 20:40:13] Error: Undeclared variable: NaN
+
+[12/06/2024 20:40:13] Error: Undeclared variable: NaN
+
+[12/06/2024 20:45:53] Error: Undeclared variable: NaN
+
+[12/06/2024 20:48:20] Error: Undeclared variable: NaN
+
+[12/06/2024 20:48:20] Error: Undeclared variable: NaN
+
+[12/06/2024 20:48:23] Error: Undeclared variable: NaN
+
+[15/06/2024 21:33:10] Error: Undeclared variable: NaN
+
+[15/06/2024 21:34:41] Error: Undeclared variable: NaN
+
+[15/06/2024 21:34:52] Error: Undeclared variable: NaN
+
+[15/06/2024 21:35:39] Error: Undeclared variable: NaN
+
+[15/06/2024 21:36:56] Error: Undeclared variable: NaN
+
+[15/06/2024 21:37:57] Error: Undeclared variable: NaN
+
+[15/06/2024 21:38:17] Error: Undeclared variable: NaN
+
+[15/06/2024 21:39:42] Error: Undeclared variable: NaN
+
+[15/06/2024 21:40:51] Error: Undeclared variable: NaN
+

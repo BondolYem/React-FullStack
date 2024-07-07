@@ -1,0 +1,28 @@
+[19/04/2024 10:02:25] ReferenceError: NULL is not defined
+
+[19/04/2024 10:03:09] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[19/04/2024 10:03:43] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[19/04/2024 10:04:29] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[19/04/2024 10:07:10] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[19/04/2024 10:07:18] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[19/04/2024 10:09:01] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[19/04/2024 10:13:22] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[19/04/2024 10:30:22] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 1
+
+[23/06/2024 18:30:58] ReferenceError: Status is not defined
+
+[23/06/2024 18:59:06] Error: Duplicate entry 'New test' for key 'Name'
+
+[23/06/2024 18:59:53] Error: Duplicate entry 'New test444' for key 'Name'
+
+[23/06/2024 21:21:53] Error: Unknown column 'NaN' in 'field list'
+
+[23/06/2024 21:22:28] Error: Unknown column 'NaN' in 'field list'
+

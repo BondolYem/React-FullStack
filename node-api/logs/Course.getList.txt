@@ -1,0 +1,16 @@
+[15/06/2024 22:55:49] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category' at line 1
+
+[15/06/2024 22:55:49] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category' at line 1
+
+[15/06/2024 22:57:05] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category' at line 1
+
+[15/06/2024 23:06:05] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category' at line 1
+
+[15/06/2024 23:06:12] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category' at line 1
+
+[15/06/2024 23:06:12] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category' at line 1
+
+[15/06/2024 23:06:45] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category' at line 1
+
+[15/06/2024 23:06:45] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'category' at line 1
+

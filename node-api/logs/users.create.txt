@@ -1,0 +1,10 @@
+[04/05/2024 11:47:19] Error: Table 'full_stack_project.user' doesn't exist
+
+[04/05/2024 11:51:47] Error: Data too long for column 'Password' at row 1
+
+[04/05/2024 11:53:29] Error: Data too long for column 'Password' at row 1
+
+[04/05/2024 11:56:28] Error: Data too long for column 'Password' at row 1
+
+[11/05/2024 22:42:11] Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+

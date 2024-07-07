@@ -1,0 +1,6 @@
+[23/06/2024 21:55:33] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[23/06/2024 22:00:04] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[28/06/2024 20:31:12] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+

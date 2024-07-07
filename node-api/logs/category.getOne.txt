@@ -1,0 +1,2 @@
+[19/04/2024 09:40:36] Error: Unknown column 'Id2' in 'where clause'
+

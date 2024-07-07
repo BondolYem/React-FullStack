@@ -1,0 +1,2 @@
+[19/04/2024 09:29:24] Error: Table 'node-api.category' doesn't exist
+

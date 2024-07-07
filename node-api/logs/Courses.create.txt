@@ -1,0 +1,42 @@
+[14/05/2024 12:17:44] Error: Unknown column 'CategoryId' in 'field list'
+
+[14/05/2024 12:18:38] Error: Incorrect integer value: '' for column `full_stack_project`.`course`.`Image` at row 1
+
+[15/06/2024 16:12:52] Error: Out of range value for column 'TotalHour' at row 1
+
+[15/06/2024 16:21:47] Error: Out of range value for column 'Price' at row 1
+
+[15/06/2024 16:26:03] Error: Out of range value for column 'Price' at row 1
+
+[15/06/2024 16:28:01] Error: Out of range value for column 'Price' at row 1
+
+[15/06/2024 16:32:48] Error: Out of range value for column 'Price' at row 1
+
+[22/06/2024 22:04:15] Error: Out of range value for column 'Price' at row 1
+
+[22/06/2024 22:05:35] Error: Out of range value for column 'Price' at row 1
+
+[22/06/2024 22:08:32] Error: Out of range value for column 'Price' at row 1
+
+[22/06/2024 22:11:06] TypeError: res.josn is not a function
+
+[22/06/2024 22:12:00] TypeError: res.josn is not a function
+
+[22/06/2024 22:38:48] Error: Out of range value for column 'Price' at row 1
+
+[22/06/2024 22:40:13] Error: Out of range value for column 'Price' at row 1
+
+[22/06/2024 22:45:13] Error: Out of range value for column 'Price' at row 1
+
+[22/06/2024 22:52:06] Error: Incorrect integer value: 'undefined' for column `full_stack_project`.`course`.`IsActive` at row 1
+
+[22/06/2024 22:52:20] Error: Incorrect integer value: 'undefined' for column `full_stack_project`.`course`.`IsActive` at row 1
+
+[23/06/2024 11:38:02] Error: Incorrect integer value: 'undefined' for column `full_stack_project`.`course`.`IsActive` at row 1
+
+[30/06/2024 15:43:50] Error: Unknown column 'NaN' in 'field list'
+
+[30/06/2024 21:31:42] Error: Unknown column 'NaN' in 'field list'
+
+[30/06/2024 21:31:59] Error: Unknown column 'NaN' in 'field list'
+

@@ -1,0 +1,52 @@
+[14/05/2024 12:27:13] Error: Out of range value for column 'Price' at row 1
+
+[23/06/2024 15:07:08] ReferenceError: removeFile is not defined
+
+[23/06/2024 15:09:20] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_ImageImageUpload-1719122133952-555467939'
+
+[23/06/2024 15:13:37] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[23/06/2024 15:14:02] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[23/06/2024 15:18:01] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[23/06/2024 15:20:24] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[23/06/2024 15:31:21] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[23/06/2024 15:31:39] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[23/06/2024 15:32:08] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[23/06/2024 15:33:11] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 15:26:50] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 16:07:52] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 16:16:07] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 16:22:16] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 21:25:55] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 21:26:06] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 21:31:08] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 21:31:10] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 21:31:10] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 21:31:10] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 21:31:20] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[30/06/2024 21:35:28] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[06/07/2024 15:12:27] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[06/07/2024 15:13:37] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+
+[06/07/2024 15:19:00] Error: ENOENT: no such file or directory, unlink '/Applications/XAMPP/xamppfiles/htdocs/Upload_Image/null'
+

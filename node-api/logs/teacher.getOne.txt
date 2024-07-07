@@ -1,0 +1,14 @@
+[04/05/2024 13:26:56] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1'' at line 1
+
+[04/05/2024 13:27:13] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''1'' at line 1
+
+[04/05/2024 13:28:59] Error: Unknown column 'IdNULL' in 'where clause'
+
+[04/05/2024 13:29:34] Error: Unknown column 'IdNULL' in 'where clause'
+
+[04/05/2024 13:31:14] ReferenceError: parameter is not defined
+
+[04/05/2024 13:32:49] Error: Table 'full_stack_project.teachers' doesn't exist
+
+[04/05/2024 13:33:04] Error: Table 'full_stack_project.teachers' doesn't exist
+

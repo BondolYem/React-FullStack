@@ -1,0 +1,16 @@
+[04/05/2024 13:35:05] Error: Incorrect datetime value: '2024-05-04T06:21:14.000Z' for column `full_stack_project`.`teacher`.`Dob` at row 1
+
+[04/05/2024 13:36:05] Error: Incorrect datetime value: '' for column `full_stack_project`.`teacher`.`Dob` at row 1
+
+[08/06/2024 15:44:12] Error: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+
+[10/06/2024 21:32:10] Error: Incorrect integer value: 'Male' for column `full_stack_project`.`teacher`.`Gender` at row 1
+
+[10/06/2024 21:33:43] Error: Incorrect integer value: 'Male' for column `full_stack_project`.`teacher`.`Gender` at row 1
+
+[12/06/2024 20:09:48] Error: Incorrect integer value: 'Male' for column `full_stack_project`.`teacher`.`Gender` at row 1
+
+[12/06/2024 20:10:17] Error: Incorrect integer value: 'Male' for column `full_stack_project`.`teacher`.`Gender` at row 1
+
+[12/06/2024 20:10:53] Error: Incorrect integer value: 'Male' for column `full_stack_project`.`teacher`.`Gender` at row 1
+

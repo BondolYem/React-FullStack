@@ -1,0 +1,18 @@
+[08/05/2024 21:32:31] Error: Column 'FirstName' cannot be null
+
+[08/05/2024 21:33:52] Error: Column 'FirstName' cannot be null
+
+[08/05/2024 21:36:08] Error: Column 'FirstName' cannot be null
+
+[08/05/2024 21:37:05] Error: Column 'FirstName' cannot be null
+
+[08/05/2024 21:37:51] Error: Column 'FirstName' cannot be null
+
+[08/05/2024 21:39:03] Error: Column 'FirstName' cannot be null
+
+[08/05/2024 21:40:49] Error: Incorrect datetime value: '' for column `full_stack_project`.`student`.`Dob` at row 1
+
+[08/05/2024 21:40:58] Error: Incorrect datetime value: '' for column `full_stack_project`.`student`.`Dob` at row 1
+
+[08/05/2024 21:42:05] Error: Column 'Tel' cannot be null
+
